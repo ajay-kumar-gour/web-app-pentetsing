@@ -1,0 +1,10 @@
+What is Sublist3r?
+
+Sublist3r is a handy tool used to find subdomains of a website. Subdomains are smaller sections of a main website (e.g., blog.example.com is a subdomain of example.com). Finding subdomains is important in penetration testing and bug bounty hunting because they can reveal hidden or vulnerable parts of a website.
+
+How does it work?
+
+Sublist3r uses multiple sources like search engines (Google, Bing) and public databases to gather subdomains. It’s fast, efficient, and easy to use.
+
+Official GitHub Reference
+https://github.com/aboul3la/Sublist3r
