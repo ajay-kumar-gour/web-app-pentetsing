@@ -6,5 +6,8 @@ How does it work?
 
 Sublist3r uses multiple sources like search engines (Google, Bing) and public databases to gather subdomains. It’s fast, efficient, and easy to use.
 
+
+command: sublist3r -d example.com -o sublister_subs.txt
+
 Official GitHub Reference
 https://github.com/aboul3la/Sublist3r
